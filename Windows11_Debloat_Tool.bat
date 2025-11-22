@@ -123,7 +123,7 @@ echo [38;2;255;255;0m[!] This may take 2-5 seconds. Please wait...[0m
 
 timeout /t 2 >nul
 
-pause
+
 start "" cmd /c powershell -NoLogo -NoProfile -ExecutionPolicy Bypass -Command "iwr -useb https://christitus.com/win | iex"
 
 
