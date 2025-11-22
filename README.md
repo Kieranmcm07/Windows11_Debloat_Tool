@@ -4,7 +4,7 @@ The WinUtil script is owned and maintained by **Chris Titus Tech**, licensed und
 
 This project does not include, modify, or redistribute any portion of his code. It only executes the official remote script hosted at:
 
-https://christitus.com/win
+https://christitus.com/windows-tool/
 
 If you want to support the original project:
 - GitHub: https://github.com/ChrisTitusTech/winutil
